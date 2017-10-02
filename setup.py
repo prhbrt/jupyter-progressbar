@@ -6,7 +6,7 @@ setup(
     url='www.herbertkruitbosch.com',
     author='Herbert Kruitbosch',
     author_email='H.T.Kruitbosch@rug.nl',
-    description=('A webinterface for adding pictures and text annotation and relations to PDF documents'),
+    description=('Wrap a generator or iterator with a progress bar in Jupyter Notebooks.'),
     license='BSD',
     packages=[
         'jupyter_progressbar'
