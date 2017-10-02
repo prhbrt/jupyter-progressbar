@@ -3,8 +3,8 @@ from setuptools import setup
 setup(
     name='jupyter-progressbar',
     version=__import__('jupyter_progressbar').__version__,
-    url='https://www.rug.nl/rus/cit/',
-    author='Research and Innovation Support',
+    url='www.herbertkruitbosch.com',
+    author='Herbert Kruitbosch',
     author_email='H.T.Kruitbosch@rug.nl',
     description=('A webinterface for adding pictures and text annotation and relations to PDF documents'),
     license='BSD',
