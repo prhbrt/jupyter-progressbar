@@ -3,7 +3,6 @@ from setuptools import setup
 setup(
     name='jupyter-progressbar',
     version=__import__('jupyter_progressbar').__version__,
-    url='www.herbertkruitbosch.com',
     author='Herbert Kruitbosch',
     author_email='H.T.Kruitbosch@rug.nl',
     description=('Wrap a generator or iterator with a progress bar in Jupyter Notebooks.'),
@@ -13,7 +12,7 @@ setup(
     ],
     include_package_data=True,
     install_requires=[
-        'IPython>=',
+        'IPython>=6.0.0',
         'humanize>=0.5.1<1.0',
         'ipywidgets>=0.5.1',
     ],
