@@ -21,9 +21,9 @@ Via pip
 
 From git
 
-   git clone git@github.com:prinsherbert/jupyter-progressbar.git
-   cd jupyter-progressbar
-   python setup.py install
+    git clone git@github.com:prinsherbert/jupyter-progressbar.git
+    cd jupyter-progressbar
+    python setup.py install
 
 ## Example
 
