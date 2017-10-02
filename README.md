@@ -13,6 +13,17 @@ size is also doubled when it was known via `__len__` or specified via `size`, bu
 
 ![ProgressBar example](example.png?raw=true "Example ProgressBar")
 
+## Installation
+
+Via pip
+
+    pip install jupyter-progressbar
+
+From git
+
+   git clone git@github.com:prinsherbert/jupyter-progressbar.git
+   cd jupyter-progressbar
+   python setup.py install
 
 ## Example
 
